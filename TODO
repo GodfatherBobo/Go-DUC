@@ -1,0 +1,14 @@
+TODO
+-- IP check redundency
+
+
+
+Current Features
+== Logging in same directory as exe
+== Kill switch on badauth return
+== Only makes change requests if IP has changed
+== Control to the millisecond for ip checks
+== User-Agent Reported correctly
+== Encoded credential storage.
+== Runs silently ## go build -ldflags "-H windowsgui" 
+== Runs as Service outside of system32
